@@ -1,7 +1,7 @@
 # Bad_Banking_BackEnd
 Standalone React app using Express and MongoDB
 
-<img src= "/public/Bank.png" width='300'/>
+<img src= "public/Bank.png" width='300'/>
 
 
 ## Description
